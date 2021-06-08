@@ -1,0 +1,6 @@
+E:\collegedata\CP 2020-21\DBAPP\DBAPP\bin\DBAPP.dll.config
+E:\collegedata\CP 2020-21\DBAPP\DBAPP\bin\DBAPP.dll
+E:\collegedata\CP 2020-21\DBAPP\DBAPP\bin\DBAPP.pdb
+E:\collegedata\CP 2020-21\DBAPP\DBAPP\obj\Debug\DBAPP.csprojResolveAssemblyReference.cache
+E:\collegedata\CP 2020-21\DBAPP\DBAPP\obj\Debug\DBAPP.dll
+E:\collegedata\CP 2020-21\DBAPP\DBAPP\obj\Debug\DBAPP.pdb
